@@ -1,0 +1,6 @@
+[submodule "python_test"]
+	path = python_test
+	url = https://github.com/veresattila2002/python_test.git
+[submodule "python_test_2"]
+	path = python_test_2
+	url = https://github.com/veresattila2002/python_test_2.git
